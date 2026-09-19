@@ -1,0 +1,10 @@
+<!--
+    Input:
+        device/xiaomi/sm8150-common/livedisplay/vendor.lineage.livedisplay-service.xiaomi_sm8150.xml
+-->
+<manifest version="9.0" type="device">
+    <hal format="aidl">
+        <name>vendor.lineage.livedisplay</name>
+        <fqname>IPictureAdjustment/default</fqname>
+    </hal>
+</manifest>
